@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>ft_vehicle_launch</name>
+  <version>0.1.0</version>
+  <description>The ft_vehicle_launch package</description>
+
+  <maintainer email="liam.jemmeson.ki@futu-re.co.jp">Liam Jemmeson</maintainer>
+  <license>Apache 2.0 License</license>
+
+  <buildtool_depend>ament_cmake_auto</buildtool_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
